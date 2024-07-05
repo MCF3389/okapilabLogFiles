@@ -1,5 +1,6 @@
 # okapilabLogFiles
 This is an extension for the wonderful software GPTAvatar created by Seth Robinson, https://github.com/SethRobinson/GPTAvatar
+GPTAvatar is a free open-source software that allows creating AI-based avatars with Unity.
 
 The class LogFiles is part of Maximilian C. Fink's OKAPILabExtensions for GPTAvatar.
 The class allows to create logfiles for educational/psychological/other research.
