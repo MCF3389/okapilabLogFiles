@@ -3,7 +3,7 @@ This is an extension for the wonderful software GPTAvatar created by Seth Robins
 GPTAvatar is a free open-source software that allows creating AI-based avatars with Unity.
 
 The class LogFiles is part of Maximilian C. Fink's OKAPILabExtensions for GPTAvatar.
-The class allows to create logfiles for educational/psychological/other research.
+The class allows to create logfiles for educational/psychological/other research when using GPTAvatar.
 In order to create good logfiles, the xAPI logfile standard is used: https://xapi.com/.
 This extension can be used in the desktop versions of GPTAvatar. It has been tested on Windows and could potentially also work on MacOS and Linux.
 It will probably not work well on WebGL builds and on builds for Android/IOS. At least files will be written to a different file path that's hard to discover.
