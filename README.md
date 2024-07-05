@@ -1,13 +1,13 @@
 # okapilabLogFiles
-This is an extension for the software GPTAvatar created by Seth Robinson, https://github.com/SethRobinson/GPTAvatar
+This is an extension for the wonderful software GPTAvatar created by Seth Robinson, https://github.com/SethRobinson/GPTAvatar
 
-The class LogFiles is part of Maximilian C. Fink's OKAPILabExtensions for GPTAvatar
-The class allows to create logfiles for educational/psychological/other research
-In order to create good logfiles, the xAPI logfile standard is used: https://xapi.com/
+The class LogFiles is part of Maximilian C. Fink's OKAPILabExtensions for GPTAvatar.
+The class allows to create logfiles for educational/psychological/other research.
+In order to create good logfiles, the xAPI logfile standard is used: https://xapi.com/.
 This extension can be used in the desktop versions of GPTAvatar. It has been tested on Windows and could potentially also work on MacOS and Linux.
 It will probably not work well on WebGL builds and on builds for Android/IOS. At least files will be written to a different file path that's hard to discover.
 
-To use this extension, the following steps have to be done
+To use this extension, the following steps have to be done:
 1) Copy this file in Unity somehwere under your assets (e.g., in a separate folder OKAPILabExtensions)
 2) Click in the Unity hierarchy on "Canvas" and open the child object "Panel"
 4) Click on the "Panel" component on "Add Component" and then type/select "LogFiles" -> this adds the C# file
