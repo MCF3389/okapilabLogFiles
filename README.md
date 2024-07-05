@@ -1,0 +1,2 @@
+# okapilabLogFiles
+Logfiles for GPTAvatar
